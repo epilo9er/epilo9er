@@ -1,10 +1,10 @@
 <div align=right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feugenejeonme%2F&count_bg=%235D5FEF&title_bg=%23A5A6F6&icon=github.svg&icon_color=%23564AD4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fepilo9er&label=Hits&icon=github&color=%23198754&message=&style=social&tz=UTC)
   
 </div>
 
-## [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
+## [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Epil9er.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
 
 <!-- SNS -->
 <!-- <a href="https://epilo9er.com" target="_blank">![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> -->
