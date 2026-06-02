@@ -19,7 +19,9 @@ In the middle, turned to a mobile developer 📱 and still operates 👨‍🏫 
 Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 
 #### 📊 Github Stats
-[![Most Used Languages](https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg)](https://github.com/eugenejeonme/github-stats)
+[![Github Statistics](https://github.com/epilo9er-oss/github-stats/blob/generated/profiles/epilo9er/overview.svg#gh-dark-mode-only)](https://github.com/epilo9er-oss/github-stats)
+[![Languages Used by (By File Size)](https://github.com/epilo9er-oss/github-stats/blob/generated/profiles/epilo9er/languages.svg#gh-dark-mode-only)](https://github.com/epilo9er-oss/github-stats)
+
 <!-- 아래 API 를 이용하면 비공개 저장소까지 확인이 안된다. 그래서 Github Action 을 이용, 위 이미지를 만들어 사용한다. -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenejeonme&langs_count=20&layout=compact) -->
 
