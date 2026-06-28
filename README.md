@@ -20,7 +20,7 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 
 #### 📊 Github Stats
 [![Github Statistics](https://github.com/epilo9er-oss/github-stats/blob/generated/profiles/epilo9er/overview.svg#gh-dark-mode-only)](https://github.com/epilo9er-oss/github-stats)
-[![Languages Used by (By File Size)](https://github.com/epilo9er-oss/github-stats/blob/generated/profiles/epilo9er/languages.svg#gh-dark-mode-only)]([https://github.com/epilo9er-oss/github-stats](https://github.com/github-stats/github-stats/blob/generated/profiles/epilo9er/languages.svg))
+[![Languages Used by (By File Size)](https://github.com/epilo9er-oss/github-stats/blob/generated/profiles/epilo9er/languages.svg#gh-dark-mode-only)](https://github.com/epilo9er-oss/github-stats)
 
 
 
